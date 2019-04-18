@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(201, 172, 54, 0.034);
+}
+img {
+    width: 10%;
+    height: 100%;
+}
+h1 {
+    margin: -3px;
+    position: fixed-top;
+    text-align: center;
+}
+div {
+    position: relative;
+    width: 350px;
+
+}
+span {
+    display: inline-block;
+    position: relative;
+    width: 350px;
+    height: 100%;
+    text-align: justify;
+}
+#fruit {
+    width: 10%;
+    height: 14%;
+    position: relative;
+    margin: 300px 400px;
+}
+span.bg {
+    display: inline-block;
+    width: 1200px;
+    height: 800px;
+    background-image: url('/src/img/0*AhQ1F4hEelt6Zz6s.jpg');
+    background-size: cover;
+    border: solid 1px cadetblue;
+    margin: -200px 0 0 370px;
+}
